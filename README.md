@@ -11,5 +11,5 @@ npm run dev:mp-weixin
 
 ## 打包用命令
 ```
-build:mp-weixin
+npm run build:mp-weixin
 ```
